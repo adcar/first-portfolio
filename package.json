@@ -1,0 +1,16 @@
+{
+  "name": "postCSS-SCSS-template",
+  "description": "A simple template for providing postCSS and SCSS support in Grunt",
+  "license": "GPLv3",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-sass": "~1.0.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-include-file": "~0.1.3",
+    "grunt-postcss": "~0.9.0",
+    "autoprefixer": "~7.1.4",
+    "pixrem": "~4.0.1",
+    "cssnano": "~3.10.0"
+  }
+}
