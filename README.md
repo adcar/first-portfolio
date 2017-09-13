@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# Source code for www.alexandercardosi.com
-=======
-# alexandercardosi.com
->>>>>>> 4e02a2f108c9b3c5e303980b06b6e043a3300d40
+# alexandercarodis.com
+This is where I keep all my source code for `alexandercardosi.com`. Everything is compiled to the `dist/` folder which then gets pushed to the `gh-pages` branch.
