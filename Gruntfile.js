@@ -13,7 +13,7 @@ module.exports = function(grunt) {
     include_file: {
       default_options: {
 	cwd: './',
-        src: ['cvdts.html', 'contact.html'],
+        src: ['cvdts.html', 'contact.html', 'index.html'],
 	dest: 'dist/' 
       }
     },
