@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <?php include 'favicon.php'; ?>
+    <title>CVDTS | Alexander Cardosi</title>
+    <?php include 'assets.php'; ?>
+  </head>
+  <body>
+    <?php include 'nav.php'; ?>
+    <main>
+      <div class="project">
+        <article class="project-article">
+          <h1>Champlain Valley Driver Training School</h1>
+          <small>Website Redesign</small>
+          <p>In this project, I redesigned the Champlain Valley Driver Training School&rsquo;s website and logo. The goal was to create a one page site that contains the same content as the four paged original. We were given the option to either take images from their website, or find images online (as long as they have a Creative Commons license). I decided taking the Creative Commons route, as the images from the original site were rather low quality. These images would be used for the backgrounds on a couple of the sections of my website. Another goal of this website was to separate yourself from other designers, so that in a real world, the company would choose you over some other web designer. To do this, I decided to be bold in my website creation. I used Javascript to create a neat navigation bar that changes from transparent to white based on the scroll position of the website. I had the contact form scale up when the user clicks on it. I even added a nice green gradient in the background of one of the sections of the site. All of this added some originality and personality to the website, and can&rsquo;t be easily recreated by another designer.<br><br>This website design focuses heavily on a modern look. Most of the design elements I used are &ldquo;trendy&rdquo;, and popular in web design. For example, I had multiple sections, and alternated between background images and plain white backgrounds, creating a rhythm. These give the eye a sense of comfort, as it isn&rsquo;t being overwhelmed by an overload of content being presented simultaneously. The entire site is mostly symmetrical. I say mostly because it isn&rsquo;t perfectly symmetrical, due to things like asymmetrical text and images. Everything on the site, however is in a center channel wrap, which causes both sites to have equal space. The overall color scheme is a green to light green. I chose green because it resonates well with Vermont culture, and since this is a Vermont company, it seemed like the right choice.<br><br>To create this project, I used a couple tools. The first being Adobe Illustrator. I used this tool to create the logo for the project. I used a nice monochromatic color scheme, with only two shades of green. The logo is a very simple version of a tractor trailer truck, and this is the point. In current icon design, logos are (usually) simple, so the user doesn&rsquo;t need to look at your logo for more than a couple seconds to fully understand it. The second tool I used, is the Atom text editor by GitHub. I used this text editor to write all of the the underlying code, and used it&rsquo;s Sass plugin to code in SCSS (Sassy CSS), which compiles over to CSS (Cascading Style Sheets). This very powerful, as I could easily embed variables and nested elements into scripts, and compile it all to a language the browser can understand.</p>
+        </article>
+        <div class="before-after">
+          <figure class="card">
+            <a href="http://www.getcdl.com/"><img src="img/cvdts-before.png" alt="CVDTS Website: Before Redesign"></a>
+            <figcaption>Before Redesign</figcaption>
+          </figure>
+          <figure class="card">
+            <a href="http://cawdvt.org/students/acardosi/week_30/driverTraining/"><img src="img/cvdts-after.png" alt="CVDTS Website: After Redesign"></a>
+            <figcaption>After Redesign</figcaption>
+          </figure>
+        </div>
+      </div>
+    </main>
+    <?php include 'footer.php' ?>
+  </body>
+</html>
