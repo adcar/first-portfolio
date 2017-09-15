@@ -1,0 +1,26 @@
+<nav id="nav" class="large">
+  <div>
+    <a id="nav-logo" href="."><img src="img/logo.svg" alt="Alexander Cardosi Logo"></a>
+    <a id="alexander-cardosi" href="." title="Home" aria-hidden="true">Alexander Cardosi</a>
+  </div>
+  <div id="links">
+    <a href="portfolio.html">Portfolio</a>
+    <!--
+    <a href="eastern-dragon.html" title="Eastern Dragon Restaurant">Eastern Dragon</a>
+    <a href="skillsusa.html" title="SkillsUSA: Mimmo's Pizzeria">SkillsUSA</a>
+    <a href="cvdts.html" title="Champlain Valley Driver Training School">CVDTS</a>
+    <a href="belgen-cycles.html">Belgen Cycles</a>
+    <a href="accessibility.html" title="Accesibility Website Creation">Accessibility</a>
+    -->
+    <a href="resume.html">Resume</a>
+    <a href="contact.html">Contact</a>
+  </div>
+  <div id="menu">
+    <div role="button" id="icon-wrap">
+      <div id="line-1"></div>
+      <div id="line-2"></div>
+      <div id="line-3"></div>
+    </div>
+  </div>
+</nav>
+<div id="transparent-overlay"></div>

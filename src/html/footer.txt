@@ -1,0 +1,5 @@
+<footer>
+  <div id="bottom">
+    <p>Handcoded with <span id="heart">&#10084;</span> by Alexander Cardosi</p>
+  </div>
+</footer>

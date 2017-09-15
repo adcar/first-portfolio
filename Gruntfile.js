@@ -12,7 +12,7 @@ module.exports = function(grunt) {
 
     include_file: {
       default_options: {
-	cwd: './',
+	cwd: 'src/html/',
         src: ['cvdts.html', 'contact.html', 'index.html', 'portfolio.html', 'eastern-dragon.html', 'skillsusa.html', 'belgen-cycles.html', 'accessibility.html', 'resume.html'],
 	dest: 'dist/' 
       }
